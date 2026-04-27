@@ -1,6 +1,6 @@
 # BiSTS-Mamba: Bidirectional Spatial-Temporal-Spectral Mamba for Multimodal Brain Decoding
 
-Official implementation of **BiSTS-Mamba**, a lightweight yet powerful deep learning framework designed for the fusion of multimodal neuroimaging data (EEG and fMRI). By leveraging the linear complexity of State Space Models (Mamba) and a dual-domain causal modeling approach, BiSTS-Mamba achieves state-of-the-art performance in various brain disease diagnostic tasks.
+Official implementation of **BiSTS-Mamba**, a lightweight yet powerful deep learning framework designed for the fusion of multimodal neuroimaging data (EEG and fMRI). By leveraging the linear complexity of State Space Models (Mamba) and a dual-domain causal modeling approach, BiSTS-Mamba achieves state-of-the-art performance in various brain disease diagnostic tasks. More details, including pre-trained weights and comprehensive experimental logs, will be released upon the formal acceptance of our manuscript.
 
 ## 🌟 Data Format
 
